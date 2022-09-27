@@ -144,4 +144,5 @@ runHistoryTestFns([
       });
     });
   }
+  chrome.history.deleteAll();
 ]);
